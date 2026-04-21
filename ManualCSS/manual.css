@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css2?family=Mogra&family=Sekuya&display=swap);
+.card {
+    color: darkblue;
+    background: #ff7700;
+    background: linear-gradient(90deg,rgba(255, 119, 0, 1) 0%, rgba(255, 162, 0, 1) 50%, rgba(237, 209, 83, 1) 100%);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: 'Mogra', sans-serif;
+    font-weight: 700;
+    padding: 15px;
+    margin: 20px;
+}
+
+.card span {
+    color: blue
+}
+
+.avatar {
+    text-align: right;
+}
+
+
